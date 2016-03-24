@@ -4,11 +4,11 @@ An excel file containing key -> value 1, value 2... pairs can be used to generat
 
 Format of the excel file:
 
-| key           | messages_en.properties           | messages_de.properties  |
-| ------------- |:-------------:| -----:|
-| msg.greetings       | Hello | Hallo |
-| msg.yes      | Yes      |   Ja |
-| msg.no | No      |    Nein |
+| key           | messages_en.properties | messages_de.properties |
+| ------------- |:---------------------- |:-----------------------|
+| msg.greetings | Hello                  | Hallo                  |
+| msg.yes       | Yes                    | Ja                     |
+| msg.no        | No                     | Nein                   |
 
 Usage:
 ```
